@@ -1,5 +1,10 @@
 # Docker Image for rust
 
+** (DEPRECATED) [The rust official stable image is now available.](https://hub.docker.com/_/rust/)
+Please consider using it.
+**
+
+
 # Usage
 
 Change directory to your project root.
